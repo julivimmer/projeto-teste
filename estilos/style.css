@@ -4,13 +4,18 @@
 }
 
 body{
-    background-color: aqua;
+    background-color: rgb(255, 185, 220);
 }
 
 main{
-    background-color: cadetblue;
+    background-color: rgb(158, 252, 255);
     width: 500px;
-    margin: auto;
+    height: 500px;
+    margin-top: 20px;
     padding: 10px;
     box-shadow: 3px 3px 5px rgb(220, 20, 60);
+}
+
+img{
+    float: right;
 }
